@@ -1,2 +1,2 @@
 # firstrepo
-This is my first repository &lt;br> Name -> Pranjal Kumar
+This is my first repository  Name -> Pranjal Kumar
